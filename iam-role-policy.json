@@ -3,8 +3,8 @@
     "Statement":[{
         "Effect": "Allow",
         "Action": [
-		   "eks:Describe*", 
-		   "ssm:GetParameters"
+		    "eks:Describe*", 
+		    "ssm:GetParameters"
 	    ],
         "Resource":"*"
     }]
